@@ -28,7 +28,7 @@ int main()
 	}
 	if(count==0)
 	{
-		cout<<"Armstrong number not found between the given interval";
+		cout<<"Armstrong number not found between the given [interval]";
 	}
 	return 0;
 }
